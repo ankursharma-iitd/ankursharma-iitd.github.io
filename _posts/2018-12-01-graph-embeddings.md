@@ -2,7 +2,7 @@
 title: "Representation Learning on Graphs - A survey"
 date: 2018-12-01
 tags: [machine learning, graphs]
-excerpt: "Machine Learning, Graphs
+excerpt: "Machine Learning, Graphs"
 mathjax: "true"
 ---
 
