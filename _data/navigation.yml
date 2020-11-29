@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Work Experience"
+    url: /_docs/Work Experience.pdf
   - title: "Projects"
     url: /projects/
   - title: "Resume"
