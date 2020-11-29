@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Work Experience"
+  - title: "Profile Summary"
     url: /_docs/Work Experience.pdf
   - title: "Projects"
     url: /projects/
