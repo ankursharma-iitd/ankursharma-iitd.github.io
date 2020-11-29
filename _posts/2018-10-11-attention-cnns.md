@@ -1,10 +1,10 @@
 ---
 title: "Attention Models in Neural Networks"
 date: 2018-10-11
-tags: [deep learning, computer vision]
+tags: [machine learning, computer vision]
 header:
   image: "/images/attention-cnns/main.png"
-excerpt: "Deep Learning, Computer Vision"
+excerpt: "Machine Learning, Computer Vision"
 mathjax: "true"
 ---
 

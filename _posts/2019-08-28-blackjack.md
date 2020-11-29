@@ -1,10 +1,10 @@
 ---
 title: "Achieve 31 (Modified Black Jack)"
 date: 2019-08-28
-tags: [reinforcement learning, artificial intelligence]
+tags: [reinforcement learning, machine learning]
 header:
   image: "/images/blackjack/main.jpeg"
-excerpt: "Reinforcement Learning Artificial Intelligence"
+excerpt: "Reinforcement Learning, Machine Learning"
 mathjax: "true"
 ---
 

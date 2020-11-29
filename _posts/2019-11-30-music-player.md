@@ -1,10 +1,10 @@
 ---
 title: "Camera-based Music Player Control"
 date: 2019-11-30
-tags: [computer vision, image processing, deep learning]
+tags: [computer vision, image processing, machine learning]
 header:
   image: "/images/music-player/main.png"
-excerpt: "Computer Vision, Image Processing, Deep Learning"
+excerpt: "Computer Vision, Image Processing, Machine Learning"
 mathjax: "true"
 ---
 ## Objective

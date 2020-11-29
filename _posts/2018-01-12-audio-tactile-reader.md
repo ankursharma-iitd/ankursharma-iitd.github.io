@@ -1,8 +1,8 @@
 ---
 title: "Audio-Assisted Tactile Reader"
 date: 2017-05-14
-tags: [development, social, image processing]
-excerpt: "Development, Social, Image Processing"
+tags: [software development, social, image processing]
+excerpt: "Software Development, Social, Image Processing"
 mathjax: "true"
 ---
 

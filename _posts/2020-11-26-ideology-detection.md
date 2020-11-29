@@ -1,8 +1,8 @@
 ---
 title: "Ideology Detection in the Indian Mass Media"
 date: 2020-11-26
-tags: [natural language processing, machine learning, data extraction, database, social science, media]
-excerpt: "Natural Language Processing, Machine Learning, Data Extraction, Database, Social Science, Media"
+tags: [natural language processing, machine learning, data, social, media]
+excerpt: "Natural Language Processing, Machine Learning, Data, Social, Media"
 mathjax: "true"
 ---
 

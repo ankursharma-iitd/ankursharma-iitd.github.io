@@ -1,8 +1,8 @@
 ---
 title: "Price Forecasting & Anomaly Detection in Agricultural Commodities"
 date: 2018-05-26
-tags: [time series analysis, machine learning, data extraction, social science]
-excerpt: "Time Series Analysis, Machine Learning, Data Extraction, Social Science"
+tags: [time series, machine learning, data, social]
+excerpt: "Time Series, Machine Learning, Data, Social"
 mathjax: "true"
 ---
 
