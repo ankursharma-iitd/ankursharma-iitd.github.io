@@ -1,6 +1,6 @@
 ---
 title: "Understanding the political dialogue on Twitter"
-date: 2018-12-01
+date: 2020-10-31
 tags: [machine learning, graphs, social, data, media]
 excerpt: "Machine Learning, Graphs, Social, Data, Media"
 mathjax: "true"
