@@ -6,7 +6,7 @@ main:
     url: /projects/
   - title: "Profile Summary"
     url: /_docs/Work Experience.pdf
-  - title: "Resume"
-    url: /_docs/Ankur_CV_December.pdf
+  # - title: "Resume"
+  #   url: /_docs/Ankur_CV_December.pdf
   - title: "Research Statement"
     url: /_docs/Research-Statement.pdf
