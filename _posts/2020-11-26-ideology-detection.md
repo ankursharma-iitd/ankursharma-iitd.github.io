@@ -5,7 +5,7 @@ tags: [natural language processing, machine learning, data, social, media]
 excerpt: "Natural Language Processing, Machine Learning, Data, Social, Media"
 mathjax: "true"
 header:
-  image: "/images/mass.jpg"
+  image: "/images/mass.png"
 ---
 
 ## Abstract

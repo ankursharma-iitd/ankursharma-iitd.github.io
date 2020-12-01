@@ -4,7 +4,7 @@ date: 2020-11-20
 tags: [machine learning, graphs, social, data, media]
 excerpt: "Machine Learning, Graphs, Social, Data, Media"
 header:
-  image: "/images/twitter.jpg"
+  image: "/images/twitter.png"
 mathjax: "true"
 ---
 

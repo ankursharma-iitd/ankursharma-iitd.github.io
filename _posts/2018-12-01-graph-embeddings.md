@@ -8,10 +8,6 @@ header:
 mathjax: "true"
 ---
 
-<!-- <div style="text-align: center;">
-  <img src="/images/graph-embeddings/graphs.png" style="width: 1800px">
-</div> -->
-
 ## Abstract
 
 Learning methods to represent graph nodes as feature vectors is a field that has recently seen a surge in research. Embedding graph nodes as vectors is useful to make graph datasets suitable for use in several downstream machine learning tasks. In this survey, we attempt to present an overview of the various methods found in the literature.
