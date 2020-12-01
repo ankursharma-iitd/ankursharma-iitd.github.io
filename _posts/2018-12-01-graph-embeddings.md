@@ -3,12 +3,14 @@ title: "Representation Learning on Graphs - A survey"
 date: 2018-12-01
 tags: [machine learning, graphs]
 excerpt: "Machine Learning, Graphs"
+header:
+  image: "/images/graph-embeddings/graphs.png"
 mathjax: "true"
 ---
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="/images/graph-embeddings/graphs.png" style="width: 1800px">
-</div>
+</div> -->
 
 ## Abstract
 
