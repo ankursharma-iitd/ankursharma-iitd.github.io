@@ -28,4 +28,6 @@ $$
     \mathcal{L}(\theta) = \frac{1}{M}  \frac{1}{K} \sum_{j=1}^{M} \sum_{i=1}^{K} \log( \textit{Pr}(w_{i}, P_{t_{j}}) \mid  \theta)
 $$
 
+where $$P_{t_{j}}$$ is the politician who is the author of $$t_{j}^{th}$$ tweet, $$\textit{Pr}$$ is the probability of predicting the word $$w_{i}$$ out of the K words sampled from a tweet written by $$P_{t_{j}}$$, M is the total number of tweets in the dataset and $$\theta$$ denotes the parameters of our model.
+
 ## Party Prediction Task
