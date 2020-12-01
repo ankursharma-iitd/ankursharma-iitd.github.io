@@ -46,5 +46,14 @@ There are similarities between what we see here and other regional parties – w
 In contrast, when the state party is centered around a single key leader, such as BJD, JDU, AMMK, the social media presence tends to be dominated by an individual. In the JDU, only INC defector Ashok Choudhary has a footprint of over 100k followers in the state.
 
 ### Center or State
+We plotted the difference between the extent to which parties retweeted other politicians from their own party from within the state, from any location outside of their own state, from the capital, or of their main leader. The goal of this distinction is to see the relative prominence of leaders from the capital as against those in the state, especially the key leader of the party, in the party’s outreach.
+
+We see, for instance, the two regional parties tend to have a higher share of retweeting among the parties’ politicians of their key leaders – thus Tejashwi Yadav tends to dominate the RJD’s tweets, whereas Nitish Kumar accounts for a significant share of the retweets by the JDU. This rate of retweet is much higher than in the national parties, in some periods as much as half of all retweets by all the politicians by their respective parties are just of the two leaders’ accounts. This underlines the centrality of the key leaders in driving the entire online presence of the party.
+
+We find that in the case of the INC and BJP, the national parties, there is much more retweeting of both politicians from the national party based in other states, as well as of either the key leader (Narendra Modi, Rahul Gandhi) or other party leaders based in Delhi. Rahul Gandhi gets marginally less retweeted among his own party than Narendra Modi gets among his party members, something that is also seen in [other research](https://www.microsoft.com/en-us/research/publication/leader-or-party-personalization-in-twitter-political-campaigns-during-the-2019-indian-elections/).
+
+{% include image.html url="/images/connectivity/4.jpg" description="Figure 3: Visualization of tweeting growth and retweeting of their own colleagues by politicians in the four main parties in Bihar between 2015-2020" %}
+
+Note that this blog has been adapted from Joyojeet's [blog](http://joyojeet.people.si.umich.edu/twitterbihar/) which details our work.
 
 # Connectivity of politicians (Summary)
