@@ -54,6 +54,55 @@ We find that in the case of the INC and BJP, the national parties, there is much
 
 {% include image.html url="/images/connectivity/4.jpg" description="Figure 3: Visualization of tweeting growth and retweeting of their own colleagues by politicians in the four main parties in Bihar between 2015-2020" %}
 
+### Timelines of Social Media Activity
+The visualizations in figure 3 above show the yearly progression of social media use by politicians in Bihar since 2015. Thus, while all the parties had a fairly small presence in 2015, it had grown significantly by 2020, though the dominating share of total activity was still with the two national parties. The dominant retweeting of out-of-state politicians by INC and BJP suggests that the discourse and strategy may be more driven by headquarters than the states.
+
+The dominance of the INC and BJP in 2020 is also worth noting. While the RJD does have a significant presence, and a particularly high rate of retweeting, possibly explained by a fairly tight knit core group of followers, it does not have the scale of the BJP or INC on Twitter.
+
+Turning to more recent data, in figure 4, we see some patterns around the points when the use of social media by politicians increases. We see there is an increase in tweeting (and retweeting of their party leaders) by the parties during the general elections, and an increase in social media activity during the COVID19 crisis.
+
+{% include image.html url="/images/connectivity/5.jpg" description="Figure 4: Temporal frequency of tweeting by four key Bihar political parties between Jan 2019 to Sep 2020" %}
+
+We also see here that while the elections and Covid drove high engagement among politicians across parties – both for the health-related reasons and due to criticism of the government due to the migrant crisis, many of whom were from the state. The high engagement with Chandrayaan and CAA/NRC was mainly restricted to BJP politicians.
+
+### Topical Patterns
+
+For the ease of visualization, we plotted the most used hashtags in 2020 on a spectrum between NDA (BJP+JDU+LJP) and non-NDA (INC+RJD), although the BJP clearly dominates the NDA list of hashtags. We see here there are patterns that are closely related to the larger social media related messaging throughout the country. For one, we see that the NDA politicians dominate the more retweeted hashtags, in some part because these hashtags tend to have more of a broadbased national appeal – such as MannKiBaat and IndiaFightsCorona. We also see that #BiharFightsCorona modeled on the BJP’s various coronavirus-related hashtags. We find that the more polarized hashtags – such as “RozgarDo” or “SpeakUpForDemocracy” on the non-NDA side, or hashtags related to the Citizenship Amendment Act on the NDA side tend to be largely used by one side or the other. We find in Bihar that the national parties tend to tweak for local purposes their overall national strategies. Thus the ‘Atmanirbhar’ branding that has been central to BJP’s messaging is also used in Bihar, while similarly tweets using the term ‘Berozgar’ to attack the economic impacts of the BJP government in other settings by the INC are used here as well
+
+{% include image.html url="/images/connectivity/6.jpg" description="Figure 5: Polarity of key hashtags on Twitter, based on the extent of their use by NDA or non-NDA politicians in Bihar, arranged by the frequency of use by politicians between January and October 2020." %}
+
+We also find that hashtags about the state, ie using the word ‘Bihar’, बिहार , NitishCares, NitishKumar4SSR, NitishKumar,BiharRejectsNitish, BiharBerojgarBadloSarkar, BJPWithBihar, ModiCares4Bihar, BiharBole_RozgarDo, बिहार_को_मत_बनाओ_वुहान are much more used starting mid-2020 compared to earlier,  with a corresponding decline in the use of hashtags about India. This suggests that as the state moves towards elections, politicians likewise focus on the state over the larger nation-state.
+
+### Influencers
+Much recent work has noted the importance of celebrity influencers in political outreach. We find that the polarization of celebrities that one sees at the national level is fairly comparable to what one sees in Bihar. BJP politicians are generally the most likely to engage with celebrities as part of their outreach strategies, while JDU politicians generally do not retweet celebrities as much. We see for instance that none of the most retweeted celebrities are from Bihar – folk singer Malini Awasthi who performs in Bhojpuri is possibly the closest to a celebrity in the state.
+
+We see in the colour coding of the retweeting that celebrities popular with the BJP including Babita Phogat, Vivek Agnihotri, and Akshay Kumar. The most retweeted outlier is Payal Rohatgi, whose popularity is in part driven by her partisan engagement with pro-BJP content, but also with conspiracy theories related to the death of actor Sushant Singh Rajput, the late actor from Bihar, whose demise briefly became a major issue in the state elections.
+
+{% include image.html url="/images/connectivity/7.jpg" description="Figure 6: Celebrities and Influencers most retweeted by Bihar politicians across for key parties between January 2018 and October 2020." %}
+
+We see that on the other end of the spectrum, some of the celebrities engaged are generally polarized against the BJP  thus comedian Kunal Kamra, actor Swara Bhaskar and filmmakers Anurag Kashyap and Vinod Kapri. We see another pattern here, that both the INC and RJD tend to retweet these celebrities, while the BJP and JDU eschew them. We see that most celebrities who are widely retweeted by politicians seem polarized either towards or away from the one or another political party, suggesting that the alignment of views of the celebrity with the party (or its position on the perceived antagonist party) is an important driver of political engagement.
+
+The exceptions to this rule are either the superstars with large, broad-based following such as Shahrukh Khan, Amitabh Bachchan and Salman Khan, or in this case, the actor Sonu Sood, who gained attention for his charity work during the migration crisis following the Covid lockdowns.
+
+### Mainstream Media Engagement
+
+We plotted the retweeting of mainstream media commentators on Twitter by Bihar politicians. We find that there are some patterns in which parties engage which journalists or public commentators. Most journalists either tend to be preferred by the NDA (and here, primarily the BJP since the JDU has fairly limited engagement with journalists), or by the non-NDA side, which is seen in the significant overlap between the RJD and the INC in which journalists their Bihar politicians tend to prefer. Journalists who tend to be from channels or have pro-ruling party content including Rohit Sardana, Deepak Chaurasia, Shefali Vaidya, Suresh Chavhanke, Chitra Tripathi, Sudhir Chaudhary, and Anjana Om Kashyap.
+
+{% include image.html url="/images/connectivity/8.jpg" description="Figure 7: Journalists most retweeted by politicians from INC, BJP, RJD and JDU in Bihar in 2020, annotated by instances of tweets being circulated and total number of politicians engaged" %}
+
+On the other hand, journalists or commentators who tend to lean on the antiestablishment end including Saket Gokhale, Prashant Kanojia, Rohini Singh, Punya Prasun Bajpai tend to be more tweeted by INC and RJD. Interestingly, most of the journalists are Delhi-based, very few of the widely retweeted journalists work for the local press or are based in Bihar as part of their work, though some journalists like Punya Prasun Bajpai and Ajit Kumar are from Bihar. The only account that is tweeted significantly across party lines is the (since blocked) account of journalist and caste activist Dilip Mandal.
+
+{% include image.html url="/images/connectivity/9.jpg" description="Table 2: Politicians most engaged with journalists from the four key Bihar parties" %}
+
+One general pattern we see is that the JDU is a lot less engaged with journalists than the three other parties. We see that each party has a small number of politicians who engage the public through retweeting journalists. Here, we see an important distinction between the approaches of the regional parties and the national parties. In both INC and BJP, the politicians who engage the most with mainstream journalists tend to be younger politicians or those associated with IT cells or youth wings.
+
+In contrast, in the RJD, though to a lesser extend in the JDU as well, the politicians who engage most with journalists’ content are among their more senior and widely followed leaders.
+From RJD, Misa Bharti, the Rajya Sabha MP and a key party leader was the most active in engaging journalists, and the party’s main handle. She has in fact been consistent in engaging mainstream media content, other work has shown that she and Asaduddin Owaisi were the most active in amplifying mainstream media content among their followers. The RJD was the only party among these whose official party handle (@RJDforIndia) was among the five most active in their party in putting out journalistic content.
+
+### Methodology
+We analysed Twitter Tweets data from Bihar politicians, extracted from the [Nivaduck dataset](https://www.microsoft.com/en-us/research/publication/nivaduck-a-scalable-pipeline-to-build-a-database-of-political-twitter-handles-for-india-and-the-united-states/). Since our target was limited to the position of institutional actors, we do not follow the general public’s Twitter handles, but rather people with political parties. For politicians, from the state-party annotated dataset of more than 36000 politicians in India, we identified 1036 Bihar politicians active on social media, and having tweeted anytime from 13th October 2009 to 30th September 2020.
+We pulled 2503737 tweets of politicians. To populate journalists and influencers, we used an annotated dataset of 2601 journalists and 1374 influencers, based on our own [past work](http://joyojeet.people.si.umich.edu/celebrity-or-journalist-who-do-indian-politicians-prefer-to-engage/).
+
 Note that this blog has been adapted from Joyojeet's [blog](http://joyojeet.people.si.umich.edu/twitterbihar/) which details our work.
 
 # Connectivity of politicians (Summary)
