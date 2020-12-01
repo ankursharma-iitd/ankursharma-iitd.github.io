@@ -7,6 +7,7 @@ header:
   image: "/images/twitter.png"
 mathjax: "true"
 ---
+# Connectivity of politicians
 
 # State-By-State Analysis
 
@@ -104,5 +105,3 @@ We analysed Twitter Tweets data from Bihar politicians, extracted from the [Niva
 We pulled 2503737 tweets of politicians. To populate journalists and influencers, we used an annotated dataset of 2601 journalists and 1374 influencers, based on our own [past work](http://joyojeet.people.si.umich.edu/celebrity-or-journalist-who-do-indian-politicians-prefer-to-engage/).
 
 Note that this blog has been adapted from Joyojeet's [blog](http://joyojeet.people.si.umich.edu/twitterbihar/) which details our work.
-
-# Connectivity of politicians (Summary)
