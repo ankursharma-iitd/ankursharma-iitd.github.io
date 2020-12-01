@@ -14,30 +14,36 @@ mathjax: "true"
 ### State to State Connectivity
 ![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/state-state-final2.png)
 State to State Connectivity of major states with at least 300 politicians. All other states have been clubbed together under the category of `Others'. The band shows the percentage of politicians of one state that are actively engaged to politicians in the other states. The threshold considered for each band link is set at 3\% of the total number of connections from that state. The width of the circular arc for each state denotes the number of politicians in that state, with minimum number of 272 politicians in Andhra Pradesh and maximum number of 2493 politicians from the state of Maharashtra.
+
 ---
 
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/state-distribution.png)
 Distribution of states connectivity into 4 sections -  connectivity to self, connectivity to center, connectivity to the neighbouring states and connectivity to the rest of the states. Center (Orange) consists of the politicians from Delhi. For Uttar Pradesh and Haryana, Delhi has been excluded as their neighbouring state while computing the Neighbourhood connectivity (Green). 
+
 ---
 
 ### Role of Center
 ![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/from_to_center.png)
 Comparison of the connectivity to center of various states in India to the connectivity from center. States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians.
+
 ---
 
 ### Engagement with a State
 ![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/eng_with_state.png)
 Temporal variation of the states most engaged by the politicians in India. States with a minimum engagement share of 2\% across all bimonthly time periods have been considered.
+
 ---
 
 ### Self, Center and Neighbourhood Connectivity
 ![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/self_to_center.png})
 Comparison of the self-connectivity of various states in India to the connectivity at the center (Delhi). States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians.
+
 ---
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/self_nbr.png)
 Comparison of the self-connectivity of various states in India to the connectivity of their neighbours. States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians.
+
 ---
 
 ## Party Connectivity
