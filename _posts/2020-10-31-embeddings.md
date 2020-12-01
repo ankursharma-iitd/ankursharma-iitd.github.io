@@ -18,7 +18,7 @@ Understanding political discourse is a challenging research problem since it's h
 The learning setting of the proposed model is such that given a politician and a tweet they have written, predict `K' sequence words from the tweet with the politician ID as input. Intuitively, the model tries to learn the consistency of the words written by the politician in a tweet, based on their own past tweets -- ergo, _does this sound like they wrote it_. This has obvious challenges, since we don't know if politicians write their own tweets, or if those who write their tweets are necessarily consistent.
 
 However, the assumption we go with is that  politicians who talk about similar topics should have similar embeddings. This is generally true since similar word distributions are used for similar topics, and if multiple politicians are talking about the same topics, the model will output words from the same distribution.  Thus, the function that the model tries to approximate is $$\Phi(P_{i}, w_{j}) = \{0, 1\}$$
-where #$P_{i}$# is the unique ID of the politician, $$w_{j}$$ is a word and the label $$\{0, 1\}$$ is decided whether that word $$w_{j}$$ occurred in the sampled `K' words of the tweets that the politician has authored.
+where $$P_{i}$$ is the unique ID of the politician, $$w_{j}$$ is a word and the label $$\{0, 1\}$$ is decided whether that word $$w_{j}$$ occurred in the sampled `K' words of the tweets that the politician has authored.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/embedding/1.png)
 
