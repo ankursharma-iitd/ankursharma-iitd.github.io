@@ -30,7 +30,7 @@ Comparison of the connectivity to center of various states in India to the conne
 ---
 
 ### Engagement with a State
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/eng_with_state.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/eng_with_state.png})
 Temporal variation of the states most engaged by the politicians in India. States with a minimum engagement share of 2% across all bimonthly time periods have been considered.
 
 ---
