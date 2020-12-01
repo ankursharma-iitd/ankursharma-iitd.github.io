@@ -26,7 +26,6 @@ To approximate $$\Phi$$ from the given data, we propose to use a shallow neural 
 
 $$
     \mathcal{L}(\theta) = \frac{1}{M}  \frac{1}{K} \sum_{j=1}^{M} \sum_{i=1}^{K} \log( \textit{Pr}(w_{i}, P_{t_{j}}) \mid  \theta)
-    \vspace{-0.2cm}
 $$
 
 ## Party Prediction Task
