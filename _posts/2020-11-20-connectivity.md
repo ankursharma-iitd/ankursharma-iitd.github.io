@@ -41,7 +41,7 @@ Comparison of the self-connectivity of various states in India to the connectivi
 
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/self_nbr.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/self_nbr.png})
 Comparison of the self-connectivity of various states in India to the connectivity of their neighbours. States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians.
 
 ---
@@ -49,35 +49,35 @@ Comparison of the self-connectivity of various states in India to the connectivi
 ## Party Connectivity
 
 ### Party to Party Connectivity
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party-party-final2.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party-party-final2.png})
 Party to Party Connectivity of major parties with at least 50 politicians. All other parties have been clubbed together under the category of `Others'. The band shows the percentage of politicians of one party that are actively engaged to politicians in the other parties. The threshold considered for each band link is set at 3% of the total number of connections from that party.
 
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party-distribution.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party-distribution.png})
 State wise distribution of parties' connectivity to itself within the same state. For each state, only those regional parties have been considered you get at least 3% vote share in the last state assembly elections as per the EC data. BJP & INC have been included for each state so as to compare the state-wise representation of regional and top national parties.
 
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/Dominance_in_Self_Connectivity.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/Dominance_in_Self_Connectivity.png})
 Indian Map highlighting the states where state parties are well connected within the state (shown in red) than the top national parties (BJP and INC) which is shown in blue.
 
 ---
 
 ### Role of Center
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party_to_from_center.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party_to_from_center.png})
 Comparison of the connectivity to center of various parties in India to the connectivity from center. Parties have been color coded into their respective category as per the definition defined by the Election Commission of India (ECI). Parties with at least 3% vote share for each state's assembly election have been considered.
 
 ---
 
 ### Engagement with a Party
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/eng_with_party.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/eng_with_party.png})
 Temporal variation of the parties most engaged by the politicians in India. Parties (National & Regional) with a minimum engagement share of 0.5% across all bimonthly time periods have been considered.
 
 ---
 
 ### Self Connectivity of Parties
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party-distribution2.png}
+![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party-distribution2.png})
 Comparison of the connectivity values of various parties in India to the politicians of their own party, to BJP, to INC and to other remaining parties. Only top parties with at least 3% representation of vote share in state assembly elections have been considered, along with all the recognised national parties.
 
 ---
