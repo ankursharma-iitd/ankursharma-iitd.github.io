@@ -10,7 +10,7 @@ mathjax: "true"
 
 # State-By-State Analysis
 
-This is work dony by Ankur Sharma, Saloni Dash, Himani Negi and Joyojeet Pal at Microsoft Research (MSR) India. Here, we give an example for one of states (Bihar) amongst the set of 20 states that we consider in our main piece.
+This is work dony by Ankur Sharma, Saloni Dash, Himani Negi and Joyojeet Pal at Microsoft Research (MSR) India. Here, we give an example for one of the states (Bihar) amongst the set of 20 states that we consider in our main piece.
 
 ## Bihar on Social Media
 We summarize the key trends with Twitter use among politicians in Bihar.
