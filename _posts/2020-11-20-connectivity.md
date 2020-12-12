@@ -7,7 +7,27 @@ header:
   image: "/images/twitter.png"
 mathjax: "true"
 ---
-# Connectivity of politicians
+# Connectivity of politicians on Social Media
+In this section, we discuss the political engagement of politicians in India on social media from January 2019 to November 2020. By political engagement, we refer to the retweets and mentions made by one politician to some other politician. Hence, each retweet or mention can be thought of as a weighted directed link from politician X to politician Y with edge weight Z (figure 1), denoting that X actively engages with Y on Twitter around Z number of times.
+{% include image.html url="/images/connectivity/connectivity.png" description="Figure 1: Active Engagement on Twitter between two politicians X and Y." %}
+
+---
+
+## Methodology
+A party (P1) of some state (S1) will comprise of many politicians belonging to that state-party group. Engagement of these politicians will, however, be distributed across the entire network to many other such state-party (S2-P2) groups, including themselves. We have defined the connectivity ratio or connectivity percentage in terms of the edges that leave from one group (S1-P1) to another group (S2-P2), all weighted by their strength of engagement (edge weight). Figure 2 visually shows how the metric has been computed.
+{% include image.html url="/images/connectivity/links.png" description="Figure 2: Connectivity between Party-1 of State-1 with another Party-2 of State-2, shown in a bipartite graph representation." %}
+
+Algorithm 1 for computing this metric has been detailed below. In short, we capture the relative weight of the edges that fall from one group (X) to the other (Y) in comparison to the total weight leaving that group (X).
+{% include image.html url="/images/connectivity/alg.png" description="" %}
+
+---
+
+## Terminology
+Before diving into the connectivity dynamics at state or party, we will discuss the terms that will be broadly discussed throughout this section. Refer to figure 3.
+{% include image.html url="/images/connectivity/types.png" description="Different types of connectivity metrics explored in this chapter. Blue denotes all the neighbouring states of the given state X." %}
+
+### Self-Connectivity
+Connectivity of the state-party X to itself is termed as `self-connectivity'. ((S1, P1) $$\rightarrow$$ (S1, P1))
 
 ## State Connectivity
 
