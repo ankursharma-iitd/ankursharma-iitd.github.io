@@ -79,12 +79,6 @@ Figure 9 shows the relationship between the connectivity of a state with its nei
 
 {% include image.html url="/images/connectivity/self_nbr.png" description="Figure 9: Comparison of the self-connectivity of various states in India to the connectivity of their neighbours. States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians." %}
 
-
----
-
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/self_nbr.png)
-Comparison of the self-connectivity of various states in India to the connectivity of their neighbours. States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians.
-
 ---
 
 ## Party Connectivity
