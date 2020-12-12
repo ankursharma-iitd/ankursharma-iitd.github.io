@@ -7,11 +7,10 @@ header:
   image: "/images/twitter.png"
 mathjax: "true"
 ---
+
 # Connectivity of politicians on Social Media
 In this section, we discuss the political engagement of politicians in India on social media from January 2019 to November 2020. By political engagement, we refer to the retweets and mentions made by one politician to some other politician. Hence, each retweet or mention can be thought of as a weighted directed link from politician X to politician Y with edge weight Z (figure 1), denoting that X actively engages with Y on Twitter around Z number of times.
 {% include image.html url="/images/connectivity/connectivity.png" description="Figure 1: Active Engagement on Twitter between two politicians X and Y." %}
-
----
 
 ## Methodology
 A party (P1) of some state (S1) will comprise of many politicians belonging to that state-party group. Engagement of these politicians will, however, be distributed across the entire network to many other such state-party (S2-P2) groups, including themselves. We have defined the connectivity ratio or connectivity percentage in terms of the edges that leave from one group (S1-P1) to another group (S2-P2), all weighted by their strength of engagement (edge weight). Figure 2 visually shows how the metric has been computed.
@@ -19,8 +18,6 @@ A party (P1) of some state (S1) will comprise of many politicians belonging to t
 
 Algorithm 1 for computing this metric has been detailed below. In short, we capture the relative weight of the edges that fall from one group (X) to the other (Y) in comparison to the total weight leaving that group (X).
 {% include image.html url="/images/connectivity/alg.png" description="" %}
-
----
 
 ## Terminology
 Before diving into the connectivity dynamics at state or party, we will discuss the terms that will be broadly discussed throughout this section. Refer to figure 3.
@@ -35,8 +32,6 @@ Connectivity of X to its neighbouring states is called 'Neighbourhood Connectivi
 ### From & To Center Connectivity
 We have defined Delhi to be the 'Center' state since all the union ministers (Prime Minister and Council of Ministers), party leaders and important politicians operate from there. Connectivity of X to the 'Center' state ((S1, P1) -> ('Delhi', P1)) is termed as To Center Connectivity, while connectivity of the 'Center' to X is termed as From Center Connectivity (('Delhi', P1) -> (S1, P1)).
 
----
-
 ## State Connectivity
 In this section, we talk about the connectivity of states in India and the engagement of the politicians in a given state with politicians of other states, center and the neighbouring states.
 
@@ -47,13 +42,9 @@ Figure 4 denotes the important state to state relationships in terms of their po
 
 Important non-center relationships between the states (shown in dark shade) also emerge out on social media, for example, Telangana and Andhra Pradesh, Kerala and Karnataka, Punjab and Haryana, etc. Such states may seem to connect on the basis of their shared culture, language, party presence and geography, amongst others. We also see that states like Uttar Pradesh, Karnataka and Maharashtra hold strong political relationships to other states, which shows their political importance as highlighted on social media.
 
----
-
 {% include image.html url="/images/connectivity/state-distribution.png" description="Figure 5: Distribution of states connectivity into 4 sections -  connectivity to self, connectivity to center, connectivity to the neighbouring states and connectivity to the rest of the states. Center (Orange) consists of the politicians from Delhi. For Uttar Pradesh and Haryana, Delhi has been excluded as their neighbouring state while computing the Neighbourhood connectivity (Green)." %}
 
 Figure 5 highlights the distribution of a state's connectivity to itself, to the Center (Delhi), to its neighbouring states and to the rest of the country. We see that the most self-connected states are from the South (Tamil Nadu, Karnataka and Andhra Pradesh), and the least self-connected states are the UTs (Chandigarh) and the states from the North-East (Tripura, Manipur, Arunachal Pradesh). Interestingly, Kerala from the South has low self-connectivity which can due to the strong presence of INC there. Uttar Pradesh and Haryana have a strong neighbourhood connectivity due to the presence of Delhi as a neighbour. Apart from these two, states in the north are in general more connected to their neighbours than the ones in south or north-east. North-eastern states are, in fact, more politically engaged to the rest of the country than their immediate neighbours. Another trend that we see is that as the self-connectivity of states decreases, their connectivity to the center gradually increases. We further explore this trend further in the next section.
-
----
 
 ### Role of Center
 {% include image.html url="/images/connectivity/self_to_center.png" description="Figure 6: Comparison of the self-connectivity of various states in India to the connectivity at the center (Delhi). States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians." %}
@@ -64,22 +55,16 @@ We see an inverse linear trend between a state's connectivity to the center and 
 
 Figure 7 measures this disparity of the role played by center, and more specifically, it highlights the states that get more engagement from the center with respect to their engagement to the center. While states like Rajasthan (RJ), Madhya Pradesh (MP), Karnataka (KA), Maharashtra (MH) and Uttar Pradesh (UP) provide roughly the same engagement to the center, only UP gets preferentially the most attention from the center. This can be because UP, being a BJP ruled state, has been a hug of huge political attention from the BJP-ruled center after Hathras and Ram Mandir inauguration. We see most of the states that receive the most attention from the center are from the northern-central belt, which includes states like UP, MP, Rajasthan, Gujarat, Bihar and Haryana. Maharashtra received a similar attention from the center after state legislative assembly elections in late 2019, and the death case of Sushant Singh Rajput (SSR). Tamil Nadu (TN), being a strongly self-connected state, didn't engage much with the center and nor did it receive any attention from the center. North-Eastern states engage a lot to the center, but do not receive any attention from the center. Similarly, almost all southern states (except Karnataka) receive low attention from the center.
 
----
-
 ### Engagement with a State
 
 {% include image.html url="/images/connectivity/eng_with_state.png" description="Figure 8: Temporal variation of the states most engaged by the politicians in India. States with a minimum engagement share of 2\% across all bimonthly time periods have been considered." %}
 
 Figure 8 shows the engagement with a particular state by all the politicians in the country. The most engaged states by Indian politicians include Delhi, Maharashtra, Uttar Pradesh and Gujarat. Maharashtra occupies a significant share of political attention in India in 2019 during Lok Sabha and Legislative Assembly Elections. Rajasthan received the major attraction in May-June 2020 over the claims by the CM against BJP making poaching attempts against its MLAs. UP remained in the limelight in the second-half of 2020 period after Hathras case and Ram Mandir inauguration. It is interesting to see that only a limited number of politically active states receive attention in the Indian politics, and most of the other states are often left ignored without receiving any much engagement on social media.
 
----
-
 ### Self and Neighbourhood Connectivity
 Figure 9 shows the relationship between the connectivity of a state with its neighbours and the connectivity within itself. Haryana and Uttar Pradesh tends to be strongly engaged with their neighbours because of Delhi, and stands as outliers in the graphs.
 
 {% include image.html url="/images/connectivity/self_nbr.png" description="Figure 9: Comparison of the self-connectivity of various states in India to the connectivity of their neighbours. States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians." %}
-
----
 
 ## Party Connectivity
 In this section, we talk about the connectivity of parties in India and the engagement of the politicians in a given party with politicians of other parties, BJP, INC and other parties.
@@ -90,8 +75,6 @@ The cultural and regional diversity of India resulted in the creation of many re
 {% include image.html url="/images/connectivity/party-party.png" description="Figure 10: Party to Party Connectivity of major parties with at least 50 politicians. All other parties have been clubbed together under the category of 'Others'. The band shows the percentage of politicians of one party that are actively engaged to politicians in the other parties. The threshold considered for each band link is set at 2% of the total number of connections from that party. The width of the circular arc denotes the band of connectivity left after removing 'self', and the height denotes the natural log of the number of politicians from the parties. There are 3 different opacity levels for the bands- darkest shade refers to the inter-party connectivity that doesn't involve BJP or INC, the relatively lighter shade is for the party to BJP relationships, and the lightest shade for the BJP to INC ones." %}
 
 As per the figure 10, imporant party relationships on Twitter based on the presence within a state includes AIADMK-DMK (Tamil Nadu), Shiv Sena-NCP (Maharashtra), TRS-TDP-YSRCP (Andhra Pradesh-Telangana), JKNC-JKPDP (Jammu & Kashmir), RJD-JDU (Bihar), BSP-SP (Uttar Pradesh), etc. Some cross-state relationships like SAD-AAP (growing presence of AAP in Punjab), RJD-SP, and JDU-CPI, are also visible on social media. We see that a significant engagement is being driven to and lead by the top national parties i.e. BJP and INC. Many key regional (AAP, Shiv Sena, AITC, etc) and national parties (BSP, NCP, CPIM, etc) are directly involved in online engagement with the leaders of these parties. 
-
----
 
 {% include image.html url="/images/connectivity/party-distribution2.png" description="Figure 11: Comparison of the connectivity values of various parties in India to the politicians of their own party, to BJP, to INC and to other remaining parties. Only top parties with at least 3\% representation of vote share in state assembly elections have been considered, along with all the recognised national parties." %}
 
@@ -109,21 +92,15 @@ Figure 14 shows this spread of dominance in self-connectivity of regional and na
 
 {% include image.html url="/images/connectivity/Dominance_in_Self_Connectivity.png" description="Figure 14: Indian Map highlighting the states where state parties are well connected within the state (shown in blue) than the top national parties (BJP and INC) which is shown in red." %}
 
----
-
 ### Role of Center
 From figure 15, we see that BJP and INC receive the most engagement from the Delhi (center) politicians. AAP, being primarily active in Delhi, also receive a high degree of engagement. On the  other hand, parties with strong presence in South India including TRS, DMK, AMMK, TDP and AIADMK, show lower connectivity with the centre, and vice versa. Some other outlier parties that do not get much attention from the center even after significant involvement are CPI, BSP, SAD and CPIM. Geography of the states, political alliance and connections to the ruling party (BJP) that sits at the Center can possibly affect the way Center chooses to interact preferentially more with one party than the other.
 
 {% include image.html url="/images/connectivity/party-to_from.png" description="Figure 15: Comparison of the connectivity to center of various parties in India to the connectivity from center. Parties have been color coded into their respective category as per the definition defined by the Election Commission of India (ECI). Parties with at least 3\% vote share for each state's assembly election have been considered." %}
 
----
-
 ### Engagement with a Party
 We also see the connectivity of politicians with parties in India on a temporal basis in figure 16. BJP \& INC are clearly the most engaged parties on Twitter by Indian politicians. We see the peak in engagement to the BJP around 2019 May-June which is when the Lok Sabha elections took place, and BJP was strongly campaigning on social media with reliance on PM Narendra Modi, and Home Minister Amit Shah. INC was the most engaged party on Twitter from May to August 2020. AAP turns out to be the 3rd most politically engaged party after BJP and INC, and its peak attention came when the Delhi elections took place in February 2020. All other parties do not receive much interaction as compared to these three, and the span of engagement given to such parties is highly variable with temporal shifts.
 
 {% include image.html url="/images/connectivity/eng_with_party.png" description="Figure 16: Temporal variation of the parties most engaged by the politicians in India. Parties (National \& Regional) with a minimum engagement share of 0.5\% across all bimonthly time periods have been considered." %}
-
----
 
 ## Conclusion
 In conclusion, we notice the extent of interaction between different states and parties, and their connectivity within themselves and to the Center. We notice key relationships in temporal engagement to a state or party, and we discuss various factors and metrics in capturing the same.
