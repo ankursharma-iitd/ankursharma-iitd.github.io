@@ -67,14 +67,18 @@ Figure 7 measures this disparity of the role played by center, and more specific
 ---
 
 ### Engagement with a State
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/eng_with_state.png)
-Temporal variation of the states most engaged by the politicians in India. States with a minimum engagement share of 2% across all bimonthly time periods have been considered.
+
+{% include image.html url="/images/connectivity/eng_with_state.png" description="Figure 8: Temporal variation of the states most engaged by the politicians in India. States with a minimum engagement share of 2\% across all bimonthly time periods have been considered." %}
+
+Figure 8 shows the engagement with a particular state by all the politicians in the country. The most engaged states by Indian politicians include Delhi, Maharashtra, Uttar Pradesh and Gujarat. Maharashtra occupies a significant share of political attention in India in 2019 during Lok Sabha and Legislative Assembly Elections. Rajasthan received the major attraction in May-June 2020 over the claims by the CM against BJP making poaching attempts against its MLAs. UP remained in the limelight in the second-half of 2020 period after Hathras case and Ram Mandir inauguration. It is interesting to see that only a limited number of politically active states receive attention in the Indian politics, and most of the other states are often left ignored without receiving any much engagement on social media.
 
 ---
 
-### Self, Center and Neighbourhood Connectivity
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/self_to_center.png)
-Comparison of the self-connectivity of various states in India to the connectivity at the center (Delhi). States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians.
+### Self and Neighbourhood Connectivity
+Figure 9 shows the relationship between the connectivity of a state with its neighbours and the connectivity within itself. Haryana and Uttar Pradesh tends to be strongly engaged with their neighbours because of Delhi, and stands as outliers in the graphs.
+
+{% include image.html url="/images/connectivity/self_nbr.png" description="Figure 9: Comparison of the self-connectivity of various states in India to the connectivity of their neighbours. States have been color coded into their respective zones as per the definition defined by the Ministry of Home Affairs. Each state here has at least a representation of 50 politicians." %}
+
 
 ---
 
