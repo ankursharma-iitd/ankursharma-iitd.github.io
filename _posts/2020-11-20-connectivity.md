@@ -112,20 +112,21 @@ Figure 14 shows this spread of dominance in self-connectivity of regional and na
 ---
 
 ### Role of Center
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party_to_from_center.png)
-Comparison of the connectivity to center of various parties in India to the connectivity from center. Parties have been color coded into their respective category as per the definition defined by the Election Commission of India (ECI). Parties with at least 3% vote share for each state's assembly election have been considered.
+From figure 15, we see that BJP and INC receive the most engagement from the Delhi (center) politicians. AAP, being primarily active in Delhi, also receive a high degree of engagement. On the  other hand, parties with strong presence in South India including TRS, DMK, AMMK, TDP and AIADMK, show lower connectivity with the centre, and vice versa. Some other outlier parties that do not get much attention from the center even after significant involvement are CPI, BSP, SAD and CPIM. Geography of the states, political alliance and connections to the ruling party (BJP) that sits at the Center can possibly affect the way Center chooses to interact preferentially more with one party than the other.
+
+{% include image.html url="/images/connectivity/party-to_from.png" description="Figure 15: Comparison of the connectivity to center of various parties in India to the connectivity from center. Parties have been color coded into their respective category as per the definition defined by the Election Commission of India (ECI). Parties with at least 3\% vote share for each state's assembly election have been considered." %}
 
 ---
 
 ### Engagement with a Party
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/eng_with_party.png)
-Temporal variation of the parties most engaged by the politicians in India. Parties (National & Regional) with a minimum engagement share of 0.5% across all bimonthly time periods have been considered.
+We also see the connectivity of politicians with parties in India on a temporal basis in figure 16. BJP \& INC are clearly the most engaged parties on Twitter by Indian politicians. We see the peak in engagement to the BJP around 2019 May-June which is when the Lok Sabha elections took place, and BJP was strongly campaigning on social media with reliance on PM Narendra Modi, and Home Minister Amit Shah. INC was the most engaged party on Twitter from May to August 2020. AAP turns out to be the 3rd most politically engaged party after BJP and INC, and its peak attention came when the Delhi elections took place in February 2020. All other parties do not receive much interaction as compared to these three, and the span of engagement given to such parties is highly variable with temporal shifts.
+
+{% include image.html url="/images/connectivity/eng_with_party.png" description="Figure 16: Temporal variation of the parties most engaged by the politicians in India. Parties (National \& Regional) with a minimum engagement share of 0.5\% across all bimonthly time periods have been considered." %}
 
 ---
 
-### Self Connectivity of Parties
-![alt]({{ site.url }}{{ site.baseurl }}/images/connectivity/party-distribution2.png)
-Comparison of the connectivity values of various parties in India to the politicians of their own party, to BJP, to INC and to other remaining parties. Only top parties with at least 3% representation of vote share in state assembly elections have been considered, along with all the recognised national parties.
+## Conclusion
+In conclusion, we notice the extent of interaction between different states and parties, and their connectivity within themselves and to the Center. We notice key relationships in temporal engagement to a state or party, and we discuss various factors and metrics in capturing the same.
 
 ---
 
