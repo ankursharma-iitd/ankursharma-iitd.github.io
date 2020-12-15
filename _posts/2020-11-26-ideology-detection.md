@@ -16,7 +16,7 @@ Our full paper titled _**Ideology Detection in the Indian Mass Media**_ has been
 * The link to our full paper is available [here](https://web.ntpu.edu.tw/~myday/doc/ASONAM2020/ASONAM2020_Proceedings/pdf/papers/100_085_627.pdf). 
 * Zoom Recording of our full paper presentation at ASONAM-2020 is available [here](https://drive.google.com/file/d/11XOSeu74MRTEib8F1B0aeJiUtAyYV6tJ/view).
 * Our conference presentation is available below.
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8D2EZBf9dY7oX2hfnao7DSMIgyJIlD7bhPPokcG4mJtZmetT2C6sRH3MMIFN1kg0Hs_Mkj1KYN6_G/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8D2EZBf9dY7oX2hfnao7DSMIgyJIlD7bhPPokcG4mJtZmetT2C6sRH3MMIFN1kg0Hs_Mkj1KYN6_G/embed?start=false&loop=false&delayms=3000" frameborder="0" width="900" height="535" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 * My Master's thesis can be accessed as a preprint [here](https://easychair.org/publications/preprint/fLrK).
 
