@@ -70,7 +70,7 @@ We see here that there is a spread of organizations on the BJP and INC sides tha
 
 ### References 
 
-* Ansari, R. and S. Riaz, Construction of’Anti-National’: Framing and Othering Discourse in Indian Media.Global Media Journal, 2020. 18(36): p. 1A-8A. 
+* Ansari, R. and S. Riaz, Construction of ’Anti-National’: Framing and Othering Discourse in Indian Media. Global Media Journal, 2020. 18(36): p. 1A-8A. 
 * Mehta, N., Redefining ‘Azadi’in India: the prose of anti-sedition.South Asian History and Culture, 2016. 7(3): p. 322-325. 
 * Rogenhofer, J.M. and A. Panievsky, Antidemocratic populism in power: comparing Erdoğan’s Turkey with Modi’s India and Netanyahu’s Israel.Democratization, 2020. 27(8): p. 1394-1412. 
 * Sinha, S., Fragile hegemony: Modi, social media and competitive electoral populism in India.International Journal of Communication, 2018. 11(2017): p. 4158-4180. 
