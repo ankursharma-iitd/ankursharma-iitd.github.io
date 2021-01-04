@@ -1,5 +1,5 @@
 ---
-title: "Understanding the political dialogue on Twitter"
+title: "Understanding the political dialogue on Twitter - India & US"
 date: 2020-10-31
 tags: [machine learning, graphs, social, data, media]
 excerpt: "Machine Learning, Graphs, Social, Data, Media"
